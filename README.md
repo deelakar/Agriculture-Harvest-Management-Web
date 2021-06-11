@@ -54,3 +54,7 @@ example 2 :
 $conn = mysqli_connect("127.0.0.1","root","localserver2020","vmarket");
 
 change these values according to ur db (same values as above ex)
+
+---------------------------------------------------------------------------------------------------------------------
+
+Thank You!
